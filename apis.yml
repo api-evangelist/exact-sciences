@@ -20,6 +20,8 @@ modified: '2026-05-04'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/exact-sciences-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/exact-sciences
   - type: Website
@@ -28,6 +30,8 @@ common:
     url: https://www.exactlabs.com
   - type: Academy
     url: https://www.exactsciences.com/exactacademy
+  - type: Blog
+    url: https://www.exactsciences.com/news-events/press-releases
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
